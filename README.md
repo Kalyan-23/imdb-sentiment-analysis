@@ -1,4 +1,4 @@
-# 🎬 Movie Review Sentiment Analyzer
+# 🎬 IMDB Sentiment Analyzer
 
 An end-to-end **Natural Language Processing (NLP)** project that classifies movie reviews as **Positive** or **Negative** using machine learning models, with an interactive web interface built using Streamlit.
 
