@@ -77,8 +77,6 @@ movie-review-sentiment-analyzer/
 
 ---
 
----
-
 ## 📌 How It Works
 
 1. User inputs a movie review
