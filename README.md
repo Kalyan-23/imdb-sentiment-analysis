@@ -1,4 +1,4 @@
-<img width="1831" height="866" alt="Screenshot 2026-04-16 220717" src="https://github.com/user-attachments/assets/c744d550-f10e-4b76-96e0-92fcbecb6de3" /># 🎬 Movie Review Sentiment Analyzer
+# 🎬 Movie Review Sentiment Analyzer
 
 A machine learning-based web application that analyzes movie reviews and predicts whether the sentiment is **positive** or **negative** using Natural Language Processing (NLP) techniques.
 
@@ -82,6 +82,8 @@ Dataset source: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-
 ---
 
 ## Screenshot
+
+<img width="1831" height="866" alt="Screenshot 2026-04-16 220717" src="https://github.com/user-attachments/assets/c744d550-f10e-4b76-96e0-92fcbecb6de3" />
 <img width="1905" height="923" alt="Screenshot 2026-04-16 220438" src="https://github.com/user-attachments/assets/d1d3b08e-7052-448b-974f-2820957ebed5" />
 <img width="1831" height="866" alt="Screenshot 2026-04-16 220717" src="https://github.com/user-attachments/assets/a3381e3c-996f-4419-b4e2-c0734fc380e2" />
 <img width="1809" height="868" alt="Screenshot 2026-04-16 220745" src="https://github.com/user-attachments/assets/1d400da6-230a-40fa-baa7-5c5efafda4dd" />
